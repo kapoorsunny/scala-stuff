@@ -1,5 +1,5 @@
 scala-stuff
 ===========
 
-scala related stuff
-All 
+Scala related stuff
+ 
